@@ -1,8 +1,8 @@
 # Flight Delays : Analysis and Prediction of flight delays
 
-Data science project about flight delays from 2016 (and part of 2017).
+Data science project about flight delays.
 
-The data came from  [the U.S. Department of Transportation](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236).
+The data came from  [the U.S. Department of Transportation](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236) and we use the 2016 data and the data available for 2017.
 
 ## Data field name and desciption :
 - `YEAR` — Year
