@@ -2,9 +2,9 @@
 
 Data science project about flight delays.
 
-The data came from  [the U.S. Department of Transportation](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236) and we use the 2016 data and the data available for 2017.
+The data came from  [the U.S. Department of Transportation](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236) and we use the 2016 data and the data available for 2017 at that time.
 
-## Data field name and desciption :
+## Data fields names and descriptions :
 - `YEAR` — Year
 - `QUARTER` — Quarter (1-4)
 - `MONTH` — Month
